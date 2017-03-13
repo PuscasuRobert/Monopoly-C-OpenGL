@@ -1,0 +1,101 @@
+# Blender MTL File: 'room.blend'
+# Material Count: 11
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd F:\Monopoly POO\images\leather.bmp
+
+newmtl None_carpet.bmp.001
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd F:\Monopoly POO\images\carpet.bmp
+
+newmtl None_closet.bmp.001
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd F:\Monopoly POO\images\closet.bmp
+
+newmtl None_monitor.bmp.001
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd F:\Monopoly POO\images\monitor.bmp
+
+newmtl None_monopolytable.bmp
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd F:\Monopoly POO\images\monopolytable.bmp
+
+newmtl None_orange.bmp.001
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd F:\Monopoly POO\images\orange.bmp
+
+newmtl None_parchet.bmp
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd F:\Monopoly POO\images\parchet.bmp
+
+newmtl None_redchair.bmp
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd F:\Monopoly POO\images\redchair.bmp
+
+newmtl None_screen.bmp
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd F:\Monopoly POO\images\screen.bmp
+
+newmtl None_stainless_stell.bmp.001
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd F:\Monopoly POO\images\stainless stell.bmp
+
+newmtl None_wood_texture.bmp.001
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd F:\Monopoly POO\images\wood texture.bmp
